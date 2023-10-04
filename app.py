@@ -6,7 +6,7 @@ import PyPDF2
 app = Flask(__name__)
 
 # Set your OpenAI API key
-api_key = "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"
+api_key = ""
 
 
 openai.api_key = api_key
